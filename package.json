@@ -1,0 +1,12 @@
+{
+  "name": "mean_stack",
+  "version": "1.0.0",
+  "description": "MEAN stack project",
+  "main": "server.js",
+  "author": "Andrea Piemontese",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.3",
+    "monk": "^1.0.1"
+  }
+}
